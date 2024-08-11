@@ -79,6 +79,7 @@
 
 
 # Minha trilha de Estudos Back End
+- Banco de Dados, SQL, Servidores, Protocolos de Redes, APIs, Frameworks, Criptografia, Algoritmos, Lógica de Programação, Raciocínio Lógico
 
 ## Frameworks Backend
 
@@ -583,6 +584,32 @@
 ## Curto Prazo
 
 ## Médio Prazo
+### Conteúdo da Faculdade
+#### Arquitetura e Organização de Computadores
+- Representação de números em sistemas binários, octal, decimal e heaxadecimal;
+- Portas Lógicas e Circuitos Digitais (Eletrônicos) e Circuitos Lógicos
+- Representação de caracteres de dados
+- Linguagem de montagem (conceitos, instruções e formatos de operação
+- Arquitetura de Processadores
+- Arquitetura Paralela e Distribuída (conceitos, tipos -SIMD, MIMD)
+- Conceitos básicos de virtualização, técnicas de emulação de hardware
+- Arquiteturas emergentesd, computação quântica, segurança do hardware
+#### Arquitetura de Software
+- Padrões de arquiteturas (MVC, MVVM)
+- Designe Patterns (todos os designes patterns - Singleton, Factory, Observer, Strategy, outros)
+- Tipos de arquiteturas de sftware (camadas, SOA, microserviços, Orientada a Objetos, Hexagonal, Limpa, Dirigida por Domínio)
+- Qualidade software
+- Desenvolvimento Orientada a Aspectos
+- Padrões de Comunnicações
+- Gerenciamento de Dados 
+- Padrões de Segurança
+#### Arquitetura de Sistemas
+#### Outros tópicos
+- Segurança em Engenharia de Software
+- Infraestutura ágil
+- Pensamento computacional
+- Processos de Desenvolvimento de Software
+- Teste e manutenção em Software
 ## Longo Prazo
 - Computação Quântica, Blockchain, I.A., Redes Neurais, Exobiologia, Física em geral, Astronomia, Ciência e Tecnologia, Matemática, Criador
 # Links Externos
