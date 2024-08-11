@@ -406,21 +406,46 @@
      - Bootstrap
      - Tailwind CSS
 
-   - Linguagens de Programação
-     - C
-     - C++
-     - Java
-     - Python
-     - Ruby
-     - PHP
-     - C#
-     - Swift
-     - Kotlin
-     - TypeScript
-     - Rust
-     - Go
-     - JavaScript (Node.js)
-     - HTML/CSS
+## Linguagens de Programação
+
+- C
+- C++
+- Java
+- Python
+- Ruby
+- PHP
+- C#
+- Swift
+- Kotlin
+- TypeScript
+- Rust
+- Go
+- JavaScript (incluindo Node.js)
+- HTML/CSS
+- Assembly
+- Linguagem de Máquina
+- ASP
+- ActionScript
+- Pascal (Object Pascal)
+- Euphoria
+- Lua
+- Matlab
+- R
+- TCL
+- Basic
+- Visual Basic
+- Objective-C
+- Scala
+- Algol
+- Fortran
+- Perl
+- Dart
+- PowerShell
+- Prolog
+- Lisp
+- XHTML
+- JSON
+
 
 
 
@@ -610,6 +635,89 @@
 - Pensamento computacional
 - Processos de Desenvolvimento de Software
 - Teste e manutenção em Software
+## 1º Módulo
+
+- Sistemas de computação e informação
+- Lógica computacional
+- Algoritmos e programação estruturada
+- Análise orientada a objetos
+- Análise e modelagem de sistemas
+- Sistemas operacionais
+- Projeto de software
+- Linguagens de programação: JavaScript, Python
+- Linguagem e programação orientada a objetos
+- Gerenciamento e qualidade de software
+- Segurança da informação
+- Frameworks para desenvolvimento de software
+- Desenvolvimento de software seguro
+- Modelagem de processos
+- Padrões de projetos de software
+- Qualidade e testes de softwares
+- Cálculo e Estatística
+
+## 2º Módulo
+
+- Fundamentos de redes de computadores
+- Matemática e lógica de programação
+- Requisitos de sistemas
+- Sistemas de informação e sociedade
+- Estrutura de dados
+- Programação e desenvolvimento de Banco de Dados
+- Banco de dados: SQL, MySQL
+- Banco de dados NoSQL
+- Banco de dados não relacional
+- Modelagem de dados
+- Programação em Python para análise de dados
+- Desenvolvimento Web: HTML5, CSS, JavaScript, Python (já cursando)
+
+## 3º Módulo
+
+- Desenvolvimento Mobile (Android e iOS)
+- Programação para dispositivos móveis em Android
+- Programação Web
+- Front End: Angular, React Native, React JS, Tailwind, Bootstrap
+- Back End com JavaScript: Express.js, Vue.js, Node.js, AJAX
+- Full Stack: "todos os conhecimentos acima e abaixo, boa sorte Futuro Engenheiro de Software Sênior Full Stack"
+- Desenvolvimento web full MVC
+- Interface e usabilidade
+- Implementação de projetos web
+- Desenvolvimento front end
+- Desenvolvimento e operações (DevOps)
+- Tópicos em Big Data em Python
+
+## 4º Módulo
+
+- Modelagem de sistemas em UML
+- Aplicação de Cloud, IoT
+- Computação em nuvem
+- Métodos ágeis com Scrum
+- Algoritmo e complexidade, algoritmos e estrutura de dados
+
+## Módulo de Conhecimento Extra
+
+- Introdução à programação estruturada em C
+- Métodos ágeis com Scrum
+- Padrões (Patterns)
+- Redes de computadores
+- Binários (1 e 0) e Kbit
+- Abstrações de problemas
+- Um pouco sobre eletrônica e elétrica básica
+- Inteligência
+- Conceitos de servidores (cliente/servidor), APIs, frameworks, bibliotecas, extensões, plugins, DLLs, threads, socket e streaming, criação de stacks, árvore de Merkel
+- Ler sobre WWW, protocolos da internet, requisições e respostas (GET, PUT, POST, HEAD), HTTP, HTTPS, SSL, TLS
+- XML, JSON, XHTML
+- Sistemas embarcados e microcontroladores
+- Cybersegurança: NMAP, Pentest e segurança de redes
+- Programação de jogos (apenas leitura rápida)
+- Paradigma de Orientação a Objetos, Paradigma Estrutural e Paradigma Modular
+- Servlets, EJB, JSP
+- Virtual Machine
+- Linux e Kali Linux
+- CMD e diversos terminais
+- O que são IDEs de desenvolvimento
+- Computação Quântica, Blockchain, Inteligência Artificial, Redes Neurais, Machine Learning
+- Vida Extraterrestre, Física, Astronomia, Radioastronomia, Deus
+
 ## Longo Prazo
 - Computação Quântica, Blockchain, I.A., Redes Neurais, Exobiologia, Física em geral, Astronomia, Ciência e Tecnologia, Matemática, Criador
 # Links Externos
