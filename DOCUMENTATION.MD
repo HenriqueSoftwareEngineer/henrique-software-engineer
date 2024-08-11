@@ -748,6 +748,19 @@
 - [Ideias de Projetos para Portfólio 2](https://www.youtube.com/watch?v=paVpmuUA4jQ 
 )
 - [Responsividade na Prática](https://www.youtube.com/watch?v=H91DhKPjhPk)
+- [Gerador de imagens com IA](https://www.fotor.com/)
+- [Banco de imagens](https://br.freepik.com/)
+- [Canva](https://www.canva.com)
+- [Baixar ícones, fontes](https://www.onlinewebfonts.com/fonts)
+- [Baixar ícone](https://www.shapes4free.com/)
+- [Gerador de gradiente](https://www.learnui.design/)
+- [Gerador de fundo de tela](https://www.fffuel.co/dddepth/)
+- [Baixar fontes](https://graphicforfree.com/)
+- [Gerador de Gradientes](https://patternpad.com/)
+- [Ferramenta muito útil para tudo](https://online-video-cutter.com/pt/video-editor)
+- [Revistas sobre eletrônica em inglês](https://archive.org/details/byte-magazine)
+- [Vídeo sobre enderaçamentos IPs](https://www.youtube.com/watch?v=G-m-iP1Ql6k)
+- [Estilizando caixa de busca em html e css](https://www.maujor.com/tutorial/estilizando-caixas-de-busca.php)
 
 ## Inteligências Artificiais
 - [Blackbox AI]()
